@@ -36,6 +36,6 @@
     - Next time you can use only ```git push``` because Git already know which branch is currently in use
 2. Sent/Update files from GitHub to PC.
   - ```git pull``` - Download and update your local repo (on your PC) with changes from the remote repo (GitHub)
-> Don't forget to use ```pwd``` to make sure in your derictory, and other [Basic Terminal Commands](###Basic-Terminal-Commands)
+> Don't forget to use ```pwd``` to make sure in your derictory, and other [Basic Terminal Commands](#Basic-Terminal-Commands)
 
 ### 4. .
