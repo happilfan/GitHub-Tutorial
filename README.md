@@ -16,6 +16,14 @@
   - ```rm filename.txt``` (remove) - Delete a file in current dirrectory
     - ```rm -r foldername``` - Delete a folder (WITH ALL FILES INSIDE!) in current dirrectory
   - **```anycommand --help``` - <ins>(If you need help) Check documentation and help of this command**</ins>
+  <br/>
+
+*Bonus Terminal Commands.*
+
+> Examples: ```text``` is text of file.
+  - ```echo text > filename.txt``` - (re)Create a file with text
+  - ```echo text >> filename.txt``` - Add text in new line of file
+  - ```nano filename.txt``` - Edit file in Terminal (like in txt editor!) Use ctrl+O for save and ctrl+X for exit
 
 ### 2. Creating and Setup New Repository.
 1. GitHub.
@@ -36,6 +44,6 @@
     - Next time you can use only ```git push``` because Git already know which branch is currently in use
 2. Sent/Update files from GitHub to PC.
   - ```git pull``` - Download and update your local repo (on your PC) with changes from the remote repo (GitHub)
-> Don't forget to use ```pwd``` to make sure in your derictory, and other [Basic Terminal Commands](#Basic-Terminal-Commands)
+> Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#Basic-Terminal-Commands)
 
-### 4. .
+### 4. Colaborating.
