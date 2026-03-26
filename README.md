@@ -36,13 +36,23 @@
 1. GitHub.
   - Go to GitHub and create New Repository (aka Repo)
     - You can click on the green button 'New' on the https://github.com/ page<br/>
-    ![](./2-1.png)
-    - You can click on Your Username Icon or Menu Button -> Repositories, and click on the green button 'New' there
+       ![](./2-1.png)
+    - You can click on Your Username Icon or Menu Button → Repositories, and click 'New' there<br/>
+       ![](./2-2.png)
+    - Give name and click 'Create repository'<br/>
+       <img src="./2-3.png" width="600"/>
 2. Visual Studio Code (aka VSC).
-  - Go to VSC: Open Git Bash Terminal and use this commands (After creating a new repo in GitHub you can see this commands, and just copy and paste in VSC Terminal)
+  - Go to VSC: Open Git Bash Terminal and use this commands
     - ```git init``` - Creating a new Git Repository in your current folder on your PC
     - ```git remote add origin https://github.com/yourprofilename/yourreponame.git``` - Connecting your local Git Repository (Repo on your PC) to a remote Repository (Repo on GitHub)
     - ```git branch -M main``` - Rename your current branch to 'main' (it's important because GitHub use the name is 'main' and for don't get the not match conflict need to rename)
+<details>
+<summary>(After creating a new repo in GitHub you can see this commands there, and you can just copy and paste into VSC terminal)</summary>
+
+<img src="./2-4.png" width="600"/>
+
+</details>
+
 > After this steps you will link your local repo on your PC and remote repo on GitHub, and will ready to work.
 
 ### 3. Work with Files.
