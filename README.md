@@ -6,6 +6,7 @@
 - [1. Basic Terminal Commands](#1-basic-terminal-commands)
 - [2. Creating and Setup New Repository](#2-creating-and-setup-new-repository)
 - [3. Work with Files](#3-work-with-files)
+- [4. Team Work](#4-team-work)
 
 ### 0. Preparation.
 > (if still is not done yet)
@@ -38,7 +39,7 @@
     - You can click on the green button 'New' on the https://github.com/ page<br/>
        ![](./2-1.png)
     - You can click on Your Username Icon or Menu Button → Repositories, and click 'New' there<br/>
-       ![](./2-2.png)
+       <img src="./2-2.png" width="600"/>
     - Give name and click 'Create repository'<br/>
        <img src="./2-3.png" width="600"/>
 2. Visual Studio Code (aka VSC).
@@ -66,4 +67,11 @@
   - ```git pull``` - Download and update your local repo (on your PC) with changes from the remote repo (GitHub)
 > Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#1-basic-terminal-commands)
 
-### 4. Team Work (Colaborating).
+### 4. Team Work.
+> If you want/need to work on project not alone - you can add any people who have GitHub Account to your project and setup Repo for Team Work.
+1. GitHub.
+  - **You:** Go to your Repo on GitHub -> Settings -> Collaborators -> Add people -> Search your friend by username/full name/email and click 'Add to repository'<br/>
+     <img src="./4-1.png" width="600"/>
+    - If you only created a Repo and still don't have any files inside, you can see and use this button<br/>
+       <img src="./4-2.png" width="600"/>
+  - **Friend:**
