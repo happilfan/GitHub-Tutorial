@@ -1,12 +1,19 @@
 # GitHub Tutorial
 
-### 0. Preparation.
+## Table of Contents
+
+- [0. Preparation](#0.-preparation)
+- [1. Basic Terminal Commands](#1.-basic-terminal-commands)
+- [2. Creating and Setup New Repository](#2.-creating-and-setup-new-repository)
+- [3. Work with Files](#3.-work-with-files)
+
+### 0. Preparation
 > (if still is not done yet)
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Install [Git](https://git-scm.com/)
 3. Register on [GitHub](https://github.com/)
 
-### 1. Basic Terminal Commands.
+### 1. Basic Terminal Commands
 > Examples: ```foldername``` is name of folder, ```filename.txt``` is name of file.
   - ```pwd``` (print working directory) - Checking current dirrectory
   - ```ls``` (list) - Checking folders & files in current dirrectory
@@ -25,7 +32,7 @@
   - ```echo text >> filename.txt``` - Add text in new line of file
   - ```nano filename.txt``` - Edit file in Terminal (like in txt editor!) Use ctrl+O for save and ctrl+X for exit
 
-### 2. Creating and Setup New Repository.
+### 2. Creating and Setup New Repository
 1. GitHub.
   - Go to GitHub and create New Repository (aka Repo)
 2. Visual Studio Code (aka VSC).
@@ -35,7 +42,7 @@
     - ```git branch -M main``` - Rename your current branch to 'main' (it's important because GitHub use the name is 'main' and for don't get the not match conflict need to rename)
 > After this steps you will link your local repo on your PC and remote repo on GitHub, and will ready to work.
 
-### 3. Work with files.
+### 3. Work with Files.
 1. Send/Update files from PC to GitHub.
   - ```git add filename.txt``` - Add files to Stage changes (you tell Git which files you want to include in the next commit)
     - If you want to add all files you can use ```git add .```
@@ -44,6 +51,6 @@
     - Next time you can use only ```git push``` because Git already know which branch is currently in use
 2. Sent/Update files from GitHub to PC.
   - ```git pull``` - Download and update your local repo (on your PC) with changes from the remote repo (GitHub)
-> Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#Basic-Terminal-Commands)
+> Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#1.-basic-terminal-commands)
 
 ### 4. Colaborating.
