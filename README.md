@@ -7,13 +7,13 @@
 - [2. Creating and Setup New Repository](#2-creating-and-setup-new-repository)
 - [3. Work with Files](#3-work-with-files)
 
-### 0. Preparation
+### 0. Preparation.
 > (if still is not done yet)
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Install [Git](https://git-scm.com/)
 3. Register on [GitHub](https://github.com/)
 
-### 1. Basic Terminal Commands
+### 1. Basic Terminal Commands.
 > Examples: ```foldername``` is name of folder, ```filename.txt``` is name of file.
   - ```pwd``` (print working directory) - Checking current dirrectory
   - ```ls``` (list) - Checking folders & files in current dirrectory
@@ -32,9 +32,12 @@
   - ```echo text >> filename.txt``` - Add text in new line of file
   - ```nano filename.txt``` - Edit file in Terminal (like in txt editor!) Use ctrl+O for save and ctrl+X for exit
 
-### 2. Creating and Setup New Repository
+### 2. Creating and Setup New Repository.
 1. GitHub.
   - Go to GitHub and create New Repository (aka Repo)
+    - You can click on the green button 'New' on the https://github.com/ page<br/>
+    ![](./2-1.png)
+    - You can click on Your Username Icon or Menu Button -> Repositories, and click on the green button 'New' there
 2. Visual Studio Code (aka VSC).
   - Go to VSC: Open Git Bash Terminal and use this commands (After creating a new repo in GitHub you can see this commands, and just copy and paste in VSC Terminal)
     - ```git init``` - Creating a new Git Repository in your current folder on your PC
@@ -53,4 +56,4 @@
   - ```git pull``` - Download and update your local repo (on your PC) with changes from the remote repo (GitHub)
 > Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#1-basic-terminal-commands)
 
-### 4. Colaborating.
+### 4. Team Work (Colaborating).
