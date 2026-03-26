@@ -47,7 +47,7 @@
     - ```git remote add origin https://github.com/yourprofilename/yourreponame.git``` - Connecting your local Git Repository (Repo on your PC) to a remote Repository (Repo on GitHub)
     - ```git branch -M main``` - Rename your current branch to 'main' (it's important because GitHub use the name is 'main' and for don't get the not match conflict need to rename)
 <details>
-<summary>(After creating a new repo in GitHub you can see this commands there, and you can just copy and paste into VSC terminal)</summary>
+<summary><ins>(After creating a new repo in GitHub you can see this commands there, and you can just copy and paste into VSC terminal)</ins></summary>
 
 <img src="./2-4.png" width="600"/>
 
