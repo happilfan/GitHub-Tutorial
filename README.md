@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [0. Preparation](#0.-preparation)
-- [1. Basic Terminal Commands](#1.-basic-terminal-commands)
-- [2. Creating and Setup New Repository](#2.-creating-and-setup-new-repository)
-- [3. Work with Files](#3.-work-with-files)
+- [0. Preparation](#0-preparation)
+- [1. Basic Terminal Commands](#1-basic-terminal-commands)
+- [2. Creating and Setup New Repository](#2-creating-and-setup-new-repository)
+- [3. Work with Files](#3-work-with-files)
 
 ### 0. Preparation
 > (if still is not done yet)
@@ -51,6 +51,6 @@
     - Next time you can use only ```git push``` because Git already know which branch is currently in use
 2. Sent/Update files from GitHub to PC.
   - ```git pull``` - Download and update your local repo (on your PC) with changes from the remote repo (GitHub)
-> Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#1.-basic-terminal-commands)
+> Don't forget to use ```pwd``` to make sure in your directory, and other [Basic Terminal Commands](#1-basic-terminal-commands)
 
 ### 4. Colaborating.
