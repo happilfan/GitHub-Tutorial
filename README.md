@@ -84,6 +84,6 @@
      <img src="./4-4.png" width="600"/>
 2. Visual Studio Code.
   - <ins>**Friend:**</ins> Go to VSC, Create and Open new Folder. Open Git Bash Terminal and use this command
-    - ```git clone https://github.com/yourcollaboratorsprofilename/yourcollaboratorsreponame.git /c/Users/Username/Desktop/NewFolder``` - Copy all repo & settings and setup local repo to the specified directory (use ```pwd``` for check your directory)
+    - ```git clone https://github.com/ownerrepoprofilename/reponame.git /c/Users/Username/Desktop/NewFolder``` - Copy all repo & settings and setup local repo to the specified directory (use ```pwd``` for check your directory)
 
 > After this steps you will setup remote & local repo on Friend PC, and will ready to work together from multiple PCs.
