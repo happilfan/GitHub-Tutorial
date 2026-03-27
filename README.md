@@ -7,6 +7,7 @@
 - [2. Creating and Setup New Repository](#2-creating-and-setup-new-repository)
 - [3. Work with Files](#3-work-with-files)
 - [4. Team Work](#4-team-work)
+- [5. Merge Conflicts](#5-merge-conflicts)
 
 ### 0. Preparation.
 > (if still is not done yet)
@@ -87,3 +88,6 @@
     - ```git clone https://github.com/ownerrepoprofilename/reponame.git /c/Users/Username/Desktop/NewFolder``` - Copy all repo & settings and setup local repo to the specified directory (use ```pwd``` for check your directory)
 
 > After this steps you will setup remote & local repo on Friend PC, and will ready to work together from multiple PCs.
+
+### 5. Merge Conflicts.
+> When you with your friend working torether on a shared project, you can make different changes to the same files. This section explains how to do that clearly.
