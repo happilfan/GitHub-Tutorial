@@ -70,8 +70,20 @@
 ### 4. Team Work.
 > If you want/need to work on project not alone - you can add any people who have GitHub Account to your project and setup Repo for Team Work.
 1. GitHub.
-  - **You:** Go to your Repo on GitHub -> Settings -> Collaborators -> Add people -> Search your friend by username/full name/email and click 'Add to repository'<br/>
+  - <ins>**You:**</ins> Go to your Repo on GitHub → Settings → Collaborators → Add people → Search your friend by username/full name/email and click 'Add to repository'<br/>
      <img src="./4-1.png" width="600"/>
-    - If you only created a Repo and still don't have any files inside, you can see and use this button<br/>
-       <img src="./4-2.png" width="600"/>
-  - **Friend:**
+<details>
+<summary><ins>(If you only created a Repo and still don't have any files inside, you can see and use this button)</ins></summary>
+
+<img src="./4-2.png" width="600"/>
+
+</details>
+
+  - <ins>**Friend:**</ins> Go to GitHub (you will see new unread notification) → Notifications → New Message with Invitation → Accept invitation<br/>
+     <img src="./4-3.png" width="600"/>
+     <img src="./4-4.png" width="600"/>
+2. Visual Studio Code.
+  - <ins>**Friend:**</ins> Go to VSC, Create and Open new Folder. Open Git Bash Terminal and use this command
+    - ```git clone https://github.com/yourcollaboratorsprofilename/yourcollaboratorsreponame.git /c/Users/Username/Desktop/NewFolder``` - Copy all repo & settings and setup local repo to the specified directory (use ```pwd``` for check your directory)
+
+> After this steps you will setup remote & local repo on Friend PC, and will ready to work together from multiple PCs.
